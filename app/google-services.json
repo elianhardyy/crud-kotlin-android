@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050917083300",
+    "project_id": "hello-d6e6a",
+    "storage_bucket": "hello-d6e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050917083300:android:fdac2aa8852fe780b6ee31",
+        "android_client_info": {
+          "package_name": "com.example.coba1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJSDBnV5YpPkzdFB0W7AvZzJ2BDhk3zW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
